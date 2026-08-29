@@ -1,0 +1,6 @@
+{
+  "name": "سِجلّي - إدارة الأقساط والمبيعات والمخزون",
+  "description": "نظام عربي لإدارة مبيعات التقسيط، حساب الفواتير، متابعة الأقساط، وإدارة المخزون والعملاء لتجار التجزئة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
